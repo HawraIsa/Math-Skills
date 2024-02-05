@@ -1,13 +1,11 @@
 # Math Skills
 
-Math skills is a bash application that generates random numbers and do calculations on it then print the result.
 
 ## Description
 
-Math skills is a project achieved in go language. It calculates the average, deviation, median and variance based on a random given set of numbers.
+This project is a Go language program designed to perform statistical calculations on a dataset provided in a file. It calculates various statistical metrics such as average, median, variance, and standard deviation.
 
 ## Author
-
 - Hawra AlFaraj(halfaraj)
 
 ## Usage: how to run
@@ -22,3 +20,4 @@ You may run the program more than one time to make sure it works on different se
 ## Implementation details: algorithm
 
 The algorithm for calculating is straightforward, and based on algorithm calculations.
+

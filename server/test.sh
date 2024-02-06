@@ -12,3 +12,5 @@ go run main.go data.txt
 
 # STEP 5: Compare the results 
 ## results should match ##
+
+### NOTE : repeat STEP 3 then STEP 4 (3 times) for the audit.
